@@ -16,6 +16,14 @@ export const projects = [
     feat: ['React', 'JavaScript', 'HTML & CSS']
   },
   {
+    name: 'Artoffish',
+    text: 'An art gallery dedicated to artifical intelligence generated art, via the Midjourney discord service. Utilizes a live search, alphatization, and randomization feature',
+    link: 'https://arrangedgodly.com/art-gallery/',
+    github: 'https://github.com/Arrangedgodly/art-gallery/',
+    button: 'Check it Out!',
+    feat: ['Midjourney', 'JavaScript', 'HTML & CSS']
+  },
+  {
     name: 'KirkLVNDR',
     text: 'A simple lavendar themed landing page I created in React the musical persona of a good friend',
     link: 'https://kirklvndr.com/',

@@ -15,7 +15,7 @@ function Project(props) {
         <Card.Text>{props.text}</Card.Text>
         <ListGroup horizontal>
           {props.feat.map(item => (
-            <ListGroup.Item className="text-primary text-opacity-75 col-4">
+            <ListGroup.Item className="text-primary text-opacity-75 col-4" key={item}>
               <Badge bg='success' pill>
               {item}
               </Badge>

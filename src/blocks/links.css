@@ -1,0 +1,7 @@
+.links {
+  display: flex;
+  width: 70%;
+  justify-content: center;
+  margin: 0 auto 1.5vh auto;
+  column-gap: 50px;
+}

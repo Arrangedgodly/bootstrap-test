@@ -1,0 +1,14 @@
+.home {
+  width: 70%;
+}
+
+.home__text {
+  font-size: 25px;
+}
+
+.home__links {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  column-gap: 50px;
+}
